@@ -21,5 +21,13 @@ PySide6-Fluent-Widgets >= 1.6.3
 
 <img src="./imgs/3.png">
 
+## 4. Usage
+
+```shell
+python screenshot.py
+```
+
+
+
 ## If it helps you, please click on star
 
