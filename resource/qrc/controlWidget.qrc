@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="images">
+    <file>../images/arrow.png</file>
+    <file>../images/cancel.png</file>
+    <file>../images/copy.png</file>
+    <file>../images/download.png</file>
+    <file>../images/finish.png</file>
+    <file>../images/pen.png</file>
+    <file>../images/return.png</file>
+    <file>../images/rectangle.png</file>
+    <file>../images/mosaic.png</file>
+    <file>../images/round.png</file>
+    <file>../images/text.png</file>
+  </qresource>
+</RCC>
